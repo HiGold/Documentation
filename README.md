@@ -1,0 +1,2 @@
+# Documentation
+HiGold Documents
