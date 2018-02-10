@@ -11,14 +11,14 @@ During the preparation of HiGold Community, we don't want to introduce too many 
 
 HiGold Community expects to build a brand new ecosystem together with blockchain fans, which is dedicated to develop a new blockchain project suitable for entertainment applications. It will also serve as an incubator to help community members promote their blockchain projects.
 
-#### TOKEN
+#### Token
 The token issued by our community is called HiGold (HIG) and the total supply is 21 billion. Half of the token will be reserved for mining after the main chain is developed, while the other half will be converted into new currency at 1:1 after the main chain is launched.
 
 50% of the token will be reserved for mining in the future; 5% allocated to round 1 of the Give & Take Plan; 10% to round 2 and 3 respectively; 10% for community operation; the remaining 15% to HiGold Team with lockup period for 5 years and 1/5 unlock every year.
 
 HiGold（HIG）will serve as the credit to be used in HiGold Community with all the applications, games and services priced by HIG. Community members can obtain certain amount of HIG through community service and/or donation and then use it inside the community as they wish.
 
-#### DONATION
+#### Donation
 The operation of HiGold Community will rely on the donation of community members, with only ETH and HIG or token acceptable. We have only one collecting address, namely: `0xcddede7f0b57225cf22bc61d53bc5a14734f36ec`
 
 All donation will be obtained for community operation, main chain development and the market value management of HIG. We will implement the Give&Take Plan from time to time and reward our donors with honor or community token.
