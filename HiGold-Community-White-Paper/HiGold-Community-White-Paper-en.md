@@ -19,7 +19,7 @@ The token issued by our community is called HiGold (HIG) and the total supply is
 HiGold（HIG）will serve as the credit to be used in HiGold Community with all the applications, games and services priced by HIG. Community members can obtain certain amount of HIG through community service and/or donation and then use it inside the community as they wish.
 
 #### DONATION
-The operation of HiGold Community will rely on the donation of community members, with only ETH and HIG or token acceptable. We have only one collecting address, namely: 0xcddede7f0b57225cf22bc61d53bc5a14734f36ec
+The operation of HiGold Community will rely on the donation of community members, with only ETH and HIG or token acceptable. We have only one collecting address, namely: `0xcddede7f0b57225cf22bc61d53bc5a14734f36ec`
 
 All donation will be obtained for community operation, main chain development and the market value management of HIG. We will implement the Give&Take Plan from time to time and reward our donors with honor or community token.
 
