@@ -7,12 +7,12 @@ With bitcoin price reaching to nearly $20,000 over the past nine years, people a
 Most of the people in blockchain industry are only interested in the speculative nature of cryptocurrency, consuming a lot of time and energy in the zero-sum game. Therefore, we hope to build a brand-new blockchain entertainment ecosystem, which will enable people to explore more fun through various blockchain entertainment applications. In the ecosystem, participants are able to apply the blockchain function directly and thereby experience the ultimate charm.
 
 ### 1.Community Development
-During the preparation of HiGold Community, we don't want to introduce too many crypto-currency speculators in early days. Instead, we hope the community can maintain the operation through traditional online donation. An ERC20Token based on ethereum has been created as a community integration system to promote community ecosystem construction and block chain development. Community member will get credits as a reward according to their contribution through Give & Take Plan from time to time.
+During the preparation of HiGold Community, we don't want to introduce too many crypto-currency speculators in early days. Instead, we hope the community can maintain the operation through traditional online donation. An ERC20Token based on ethereum has been created as a community integration system to promote community ecosystem construction and blockchain development. Community member will get credits as a reward according to their contribution through Give&Take Plan from time to time.
 
 HiGold Community expects to build a brand new ecosystem together with blockchain fans, which is dedicated to develop a new blockchain project suitable for entertainment applications. It will also serve as an incubator to help community members promote their blockchain projects.
 
 #### TOKEN
-The token issued by our community is called HiGold (HIG) and the total number is 21 billion. Half of the token will be reserved for mining after the main chain is developed, while the other half will be converted into new currency at 1:1 after the main chain is launched.
+The token issued by our community is called HiGold (HIG) and the total supply is 21 billion. Half of the token will be reserved for mining after the main chain is developed, while the other half will be converted into new currency at 1:1 after the main chain is launched.
 
 50% of the token will be reserved for mining in the future; 5% allocated to round 1 of the Give & Take Plan; 10% to round 2 and 3 respectively; 10% for community operation; the remaining 15% to HiGold Team with lockup period for 5 years and 1/5 unlock every year.
 
