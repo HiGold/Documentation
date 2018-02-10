@@ -42,10 +42,10 @@ The special features of blockchain make it a good carrier for some games, such a
 We hope to build the mainchain into a blockchain version of digital distribution platform, providing digital rights management, game interaction, virtual asset trading and other functions. Users can release, install and update the game on HiGold blockchain platform and all the game accounts, characters and virtual items can be stored, transferred and traded on the blockchain. Game developers can integrate HiGold platform into their own products and even deploy the game on the blockchain.
 
 ### 3.Roadmap
-* 2018 Q1 Publishment for HiGold Community White Paper
+* 2018 Q1 Publication for HiGold Community White Paper
 * 2018 Q1 Implementation of Community Donation Incentive Plan(Give&Take Plan)
 * 2018 Q1 Launch of HiGold Blockchain Development Project
-* 2018 Q2 Publishment for HiGold Blockchain Technical White Paper
+* 2018 Q2 Publication for HiGold Blockchain Technical White Paper
 * 2018 Q2 Landing of the Initial Application Projects for HiGold Token
 * 2018 Q4 Initiation of HiGold Testing Network
 * 2018 Q4 HiGold Wallet Testing
